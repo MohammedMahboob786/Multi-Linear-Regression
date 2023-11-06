@@ -47,5 +47,3 @@ The trained model is used to make predictions on a test dataset. The predictions
 Feel free to explore the code and use it for your own fuel consumption predictions.
 
 ---
-
-You can customize this README text further to include any additional information or details about your project. Then, you can create a README.md file in your GitHub repository and paste this text into it to provide an informative description of your project to visitors and potential collaborators.
